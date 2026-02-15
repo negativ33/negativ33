@@ -90,9 +90,3 @@ GitHub:
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=negativ33&layout=compact&theme=tokyonight)
 
 
----
-
-## 📫 Контакты
-
-Telegram: https://t.me/negativ3333  
-Email: winokdidi@yandex.ru
