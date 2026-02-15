@@ -1,16 +1,73 @@
-## Hi there 👋
+# Привет, я Дмитрий 👋
 
-<!--
-**negativ33/negativ33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-разработчик (React / TypeScript)
 
-Here are some ideas to get you started:
+📍 Москва  
+💼 Открыт к работе (junior frontend developer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Обо мне
+
+Frontend-разработчик, специализируюсь на создании SPA-приложений на React и TypeScript.
+
+Опыт:
+
+- разработка SPA на React + Redux Toolkit
+- работа с REST API
+- архитектура Feature-Sliced Design
+- командная разработка (Git, Pull Request, Code Review)
+
+---
+
+## 🚀 Технологии
+
+### Frontend
+- React
+- TypeScript
+- JavaScript
+- HTML5, CSS3
+
+### State management
+- Redux Toolkit
+
+### Tools
+- Git
+- Vite
+- Webpack
+- REST API
+
+---
+
+## 📂 Pet-проекты
+
+### MarketNews  
+SPA приложение финансовых новостей  
+
+Tech stack: React, TypeScript, REST API  
+
+GitHub:  
+https://github.com/negativ33/MarketNews
+
+---
+
+### Stellar Burgers  
+Конструктор бургеров с авторизацией и глобальным состоянием  
+
+Tech stack: React, Redux Toolkit, TypeScript  
+
+GitHub:  
+https://github.com/negativ33
+
+---
+
+## 📊 GitHub статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=negativ33&show_icons=true)
+
+---
+
+## 📫 Контакты
+
+Telegram: https://t.me/negativ3333  
+Email: winokdidi@yandex.ru
