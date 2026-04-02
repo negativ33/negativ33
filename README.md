@@ -7,37 +7,6 @@ Frontend-разработчик (React / TypeScript)
 
 ---
 
-## 🧑‍💻 Обо мне
-
-Frontend-разработчик, специализируюсь на создании SPA-приложений на React и TypeScript.
-
-Опыт:
-
-- разработка SPA на React + Redux Toolkit
-- работа с REST API
-- архитектура Feature-Sliced Design
-- командная разработка (Git, Pull Request, Code Review)
-
----
-
-## 🚀 Технологии
-
-### Frontend
-- React
-- TypeScript
-- JavaScript
-- HTML5, CSS3
-
-### State management
-- Redux Toolkit
-
-### Tools
-- Git
-- Vite
-- Webpack
-- REST API
-
----
 
 ## 📂 Проекты
 
